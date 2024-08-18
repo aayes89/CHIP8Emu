@@ -33,3 +33,9 @@ Emulador de CHIP-8 para Java hecho con: <br><b>IDE: Apache NetBeans IDE 21
 - Documentación
 - Interfaz gráfica
 
+# Demostración - PONG -
+- teclas P1: 1 (arriba) y Q (abajo)
+- teclas P2: 4 (arriba) y R (abajo)
+
+# Aviso
+<b>Puede: usar, modificar, copiar y distribuir el código sin penalización alguna,</b> con la condición de <b>mencionar al autor en su documentación.</b>

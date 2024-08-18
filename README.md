@@ -18,6 +18,11 @@ Emulador de CHIP-8 para Java hecho con: <br><b>IDE: Apache NetBeans IDE 21
 - Generación de sonidos
 - Manejo de gráficos
 - Manejo de teclado
+  - teclas mapeadas:
+  - 1, 2, 3, 4
+  - Q, W, E, R
+  - A, S, D, F
+  - Z, X, C, V
 
 # Pendientes
 - Añadir plugins
@@ -27,4 +32,4 @@ Emulador de CHIP-8 para Java hecho con: <br><b>IDE: Apache NetBeans IDE 21
 # Por mejorar
 - Documentación
 - Interfaz gráfica
-  
+
